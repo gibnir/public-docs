@@ -1,0 +1,14 @@
+C:\data\LearnCSharp\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.deps.json
+C:\data\LearnCSharp\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.runtimeconfig.json
+C:\data\LearnCSharp\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.runtimeconfig.dev.json
+C:\data\LearnCSharp\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.dll
+C:\data\LearnCSharp\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.1\WebAPI.pdb
+C:\data\LearnCSharp\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.csprojAssemblyReference.cache
+C:\data\LearnCSharp\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.csproj.CoreCompileInputs.cache
+C:\data\LearnCSharp\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.RazorAssemblyInfo.cache
+C:\data\LearnCSharp\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.RazorAssemblyInfo.cs
+C:\data\LearnCSharp\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.AssemblyInfoInputs.cache
+C:\data\LearnCSharp\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.AssemblyInfo.cs
+C:\data\LearnCSharp\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.RazorTargetAssemblyInfo.cache
+C:\data\LearnCSharp\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.dll
+C:\data\LearnCSharp\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.1\WebAPI.pdb
