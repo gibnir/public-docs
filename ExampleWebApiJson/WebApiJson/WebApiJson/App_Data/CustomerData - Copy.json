@@ -1,0 +1,56 @@
+﻿[
+  {
+    "CustomerID": 100000,
+    "CustomerName": "Cust100000",
+    "ContractList": [
+      {
+        "ContractId": 100001,
+        "CustID": 100000,
+        "ContractType": "Type1",
+        "FirstName": "N100001",
+        "LastName": "L100001"
+      },
+      {
+        "ContractId": 100002,
+        "CustID": 100000,
+        "ContractType": "Type1",
+        "FirstName": "N100002",
+        "LastName": "L100002"
+      },
+      {
+        "ContractId": 100003,
+        "ContractType": "Type1",
+        "CustID": 100000,
+        "FirstName": "N100003",
+        "LastName": "L100003"
+      }
+    ]
+  },
+  {
+    "CustomerID": 200000,
+    "CustomerName": "Cust200000",
+    "ContractList": [
+      {
+        "ContractId": 200001,
+        "CustID": 200000,
+        "ContractType": "Type2",
+        "FirstName": "N200001",
+        "LastName": "L200001"
+      },
+      {
+        "ContractId": 200002,
+        "CustID": 200000,
+        "ContractType": "Type2",
+        "FirstName": "N200002",
+        "LastName": "L200002"
+      },
+      {
+        "ContractId": 200003,
+        "CustID": 200000,
+        "ContractType": "Type2",
+        "FirstName": "N200003",
+        "LastName": "L200003"
+      }
+    ]
+  }
+]
